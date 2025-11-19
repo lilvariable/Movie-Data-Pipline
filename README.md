@@ -9,9 +9,9 @@ This project is a database that stores movies using PostgreSQL as the backend an
 
 ## Installing Dependencies and Setting up the Database on Mac Terminal
 1. Install Homebrew
-   Run this code to install Homebrew in the Mac Terminal:
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   To verify if Hombrew was installed, run:
+   Run this code to install Homebrew in the Mac Terminal: \
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" \
+   To verify if Hombrew was installed, run: \
    brew --version
    
 3. Install PostgreSQL
